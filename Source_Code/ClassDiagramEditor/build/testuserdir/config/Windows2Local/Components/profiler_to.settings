@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.modules.profiler/2" spec="2.22.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.modules.profiler.ProfilerTopComponent"/>
+    <instanceof class="org.netbeans.modules.profiler.TelemetryOverviewPanel"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <serialdata class="org.netbeans.modules.profiler.TelemetryOverviewPanel">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D6403000078707400346F72672E6E65746265616E732E6D6F64756C65732E70726F66696C65722E54656C656D
+        657472794F7665727669657750616E656C7372000F6A6176612E6C616E672E53686F7274684D37133460DA52020001530005
+        76616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000000174001556
+        4D2054656C656D65747279204F76657276696577740015564D2074656C656D65747279206F766572766965777078
+    </serialdata>
+</settings>

@@ -1,0 +1,1114 @@
+-------------------------------------------------------------------------------
+>Log Session: Wednesday, May 27, 2015 8:55:26 PM CEST
+>System Info: 
+  Product Version         = NetBeans IDE 8.0.2 (Build 201411181905) (#8230772f5f18)
+  Operating System        = Linux version 3.16.0-38-generic running on i386
+  Java; VM; Vendor        = 1.8.0_45; Java HotSpot(TM) Client VM 25.45-b02; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_45-b14
+  Java Home               = /usr/lib/jvm/java-8-oracle/jre
+  System Locale; Encoding = sk_SK (nb); UTF-8
+  Home Directory          = /home/mairo744
+  Current Directory       = /home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor
+  User Directory          = /home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor/build/testuserdir
+  Cache Directory         = /home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor/build/testuserdir/var/cache
+  Installation            = /home/mairo744/netbeans-8.0.2/nb
+                            /home/mairo744/netbeans-8.0.2/ergonomics
+                            /home/mairo744/netbeans-8.0.2/ide
+                            /home/mairo744/netbeans-8.0.2/extide
+                            /home/mairo744/netbeans-8.0.2/java
+                            /home/mairo744/netbeans-8.0.2/apisupport
+                            /home/mairo744/netbeans-8.0.2/webcommon
+                            /home/mairo744/netbeans-8.0.2/websvccommon
+                            /home/mairo744/netbeans-8.0.2/enterprise
+                            /home/mairo744/netbeans-8.0.2/mobility
+                            /home/mairo744/netbeans-8.0.2/profiler
+                            /home/mairo744/netbeans-8.0.2/php
+                            /home/mairo744/netbeans-8.0.2/harness
+                            /home/mairo744/netbeans-8.0.2/cnd
+                            /home/mairo744/netbeans-8.0.2/dlight
+                            /home/mairo744/netbeans-8.0.2/groovy
+                            /home/mairo744/netbeans-8.0.2/javafx
+                            /home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor/build/cluster
+                            /home/mairo744/netbeans-8.0.2/platform
+  Boot & Ext. Classpath   = /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar
+  Application Classpath   = /home/mairo744/netbeans-8.0.2/platform/lib/boot.jar:/home/mairo744/netbeans-8.0.2/platform/lib/org-openide-modules.jar:/home/mairo744/netbeans-8.0.2/platform/lib/org-openide-util.jar:/home/mairo744/netbeans-8.0.2/platform/lib/org-openide-util-lookup.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/boot_ja.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/boot_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/boot_ru.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/boot_zh_CN.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-modules_ja.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-modules_ru.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util_ja.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util_ru.jar:/home/mairo744/netbeans-8.0.2/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-oracle/lib/dt.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar
+  Startup Classpath       = /home/mairo744/netbeans-8.0.2/platform/core/org-openide-filesystems.jar:/home/mairo744/netbeans-8.0.2/platform/core/core.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_ja.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/core_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/core_zh_CN.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_pt_BR.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/core_ru.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_ru.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/org-openide-filesystems_zh_CN.jar:/home/mairo744/netbeans-8.0.2/platform/core/locale/core_ja.jar:/home/mairo744/netbeans-8.0.2/nb/core/org-netbeans-upgrader.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/org-netbeans-upgrader_zh_CN.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/org-netbeans-upgrader_ru.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/core_nb_pt_BR.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/core_nb.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/core_nb_zh_CN.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/org-netbeans-upgrader_ja.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/core_nb_ja.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/org-netbeans-upgrader_pt_BR.jar:/home/mairo744/netbeans-8.0.2/nb/core/locale/core_nb_ru.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.modules.netbinox]: Install area set to file:/home/mairo744/
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.form.nb] use org.jdesktop.layout which is deprecated: Use javax.swing.GroupLayout instead. (In form editor: select Form ... in Inspector; change Layout Generation Style to Standard Java 6 code.)
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.editor.lib, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.deprecated.pre65formatting which is deprecated.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.ide.kit, org.netbeans.modules.xml.text] use org.netbeans.modules.editor.structure which is deprecated.
+WARNING [org.netbeans.core.modules]: the modules [org.netbeans.modules.java.hints, org.netbeans.modules.maven.hints] use org.netbeans.modules.java.hints.legacy.spi which is deprecated: Use Java Hints SPI (org.netbeans.spi.java.hints) instead.
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/ConfigurationReloading/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/ConfigurationReloading/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Kalkulacka/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Kalkulacka/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Zadanie/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Zadanie/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Ukazka/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Ukazka/ not found!
+Cannot initialize GTK colors - using hardcoded defaults: java.lang.NoSuchMethodException: javax.swing.plaf.synth.SynthContext.getContext(java.lang.Class, javax.swing.JComponent, javax.swing.plaf.synth.Region, javax.swing.plaf.synth.SynthStyle, int)
+WARNING [org.netbeans.core.startup.InstalledFileLocatorImpl]: no code name base passed when looking up build_info at org.netbeans.modules.uihandler.BuildInfo.logBuildInfo(BuildInfo.java:84)
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/ConfigurationReloading/ not found!
+WARNING [org.netbeans.modules.localhistory]: source group ConfigurationReloading returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/ConfigurationReloading/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/ConfigurationReloading/ not found!
+WARNING [org.netbeans.modules.localhistory]: project AbstractFileObject@92de9b[root of MemoryFileSystem13[org.openide.filesystems.MemoryFileSystem@1e98482]] returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Kalkulacka/ not found!
+WARNING [org.netbeans.modules.localhistory]: source group Kalkulacka returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Kalkulacka/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Kalkulacka/ not found!
+WARNING [org.netbeans.modules.localhistory]: project AbstractFileObject@a2545b[root of MemoryFileSystem16[org.openide.filesystems.MemoryFileSystem@1cafad]] returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Zadanie/ not found!
+WARNING [org.netbeans.modules.localhistory]: source group Zadanie returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Zadanie/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Zadanie/ not found!
+WARNING [org.netbeans.modules.localhistory]: project AbstractFileObject@6ec133[root of MemoryFileSystem19[org.openide.filesystems.MemoryFileSystem@1ce94a8]] returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Ukazka/ not found!
+WARNING [org.netbeans.modules.localhistory]: source group Ukazka returned null root folder
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Ukazka/ not found!
+WARNING [org.netbeans.modules.project.ui.OpenProjectList]: Project dir with file:/home/mairo744/NetBeansProjects/Ukazka/ not found!
+WARNING [org.netbeans.modules.localhistory]: project AbstractFileObject@1a61946[root of MemoryFileSystem22[org.openide.filesystems.MemoryFileSystem@52b318]] returned null root folder
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.25.1 201411181905]
+	org.openide.util [8.39.1 201411181905]
+	org.openide.modules [7.43.1 201411181905]
+	org.netbeans.api.annotations.common/1 [1.24.1 201411181905]
+	org.openide.filesystems [8.12.1 201411181905]
+	org.openide.awt [7.62.1 201411181905]
+	org.netbeans.api.progress/1 [1.38.1 201411181905]
+	org.openide.dialogs [7.38.1 201411181905]
+	org.openide.nodes [7.39.1 201411181905]
+	org.openide.windows [6.71.1 201411181905]
+	org.netbeans.modules.editor.mimelookup/1 [1.36.1 201411181905]
+	org.openide.text [6.62.2 201411181905]
+	org.netbeans.swing.tabcontrol [1.51.1 201411181905]
+	org.netbeans.swing.outline [1.30.1 201411181905]
+	org.openide.explorer [6.57.1 201411181905]
+	org.openide.actions [6.35.1 201411181905]
+	org.netbeans.modules.queries/1 [1.39.1 201411181905]
+	org.openide.loaders [7.57.2 201411181905]
+	org.openide.io [1.45.1 201411181905]
+	org.openide.execution [1.36.1 201411181905]
+	org.netbeans.upgrader [4.31.2 201411181905]
+	org.netbeans.swing.plaf [1.37.1 201411181905]
+	org.netbeans.modules.projectapi/1 [1.60.2 201411181905]
+	org.netbeans.swing.dirchooser [1.25.1 201411181905]
+	org.netbeans.spi.viewmodel/2 [1.46.1 201411181905]
+	org.netbeans.spi.tasklist/1 [1.30.1.1 1 201411181905]
+	org.netbeans.spi.quicksearch [1.23.1 201411181905]
+	org.netbeans.spi.palette/1 [1.42.1 201411181905]
+	org.netbeans.spi.navigator/1 [1.33.1 201411181905]
+	org.netbeans.modules.editor.settings/1 [1.53.1 201411181905]
+	org.netbeans.modules.editor.util/1 [1.58.1 201411181905]
+	org.netbeans.modules.keyring [1.20.1 201411181905]
+	org.netbeans.bootstrap/1 [2.69.3 201411181905]
+	org.netbeans.core.startup/1 [1.55.2 201411181905]
+	org.netbeans.modules.sampler [1.10.1 201411181905]
+	org.netbeans.core/2 [3.46.1 201411181905]
+	org.netbeans.modules.options.api/1 [1.41.1 201411181905]
+	org.netbeans.modules.options.keymap [1.31.1 201411181905]
+	org.netbeans.modules.editor.settings.storage/1 [1.45.1 201411181905]
+	org.netbeans.modules.lexer/2 [1.59.1.1 1 201411181905]
+	org.netbeans.modules.editor.fold/1 [1.40.1 201411181905]
+	org.netbeans.modules.editor.lib2/1 [1.85.1.43 43 201411181905]
+	org.netbeans.modules.editor.indent/2 [1.37.1 201411181905]
+	org.netbeans.modules.editor.lib/3 [3.49.2.22.43 22 201411181905]
+	org.netbeans.modules.editor.fold.nbui [1.7.1.43 201411181905]
+	org.netbeans.modules.editor/3 [1.79.1.5.22.43 5 201411181905]
+	org.netbeans.libs.javacapi [8.11.1.3 3 201411181905]
+	org.netbeans.libs.javacimpl/1 [0.38.1.25 25 201411181905]
+	org.netbeans.lib.nbjavac [1.13.1.2.25 2 201411181905]
+	org.netbeans.modules.editor.errorstripe.api/1 [2.29.1.1 1 201411181905]
+	org.netbeans.api.java.classpath/1 [1.42.1 201411181905]
+	org.netbeans.api.java/1 [1.52.1 201411181905]
+	org.netbeans.modules.java.platform/1 [1.35.1 201411181905]
+	org.netbeans.modules.options.editor/1 [1.51.1 201411181905]
+	org.netbeans.modules.editor.errorstripe/2 [2.30.1.1.1 1 201411181905]
+	org.netbeans.modules.diff/1 [1.47.1.42.1 42 201411181905]
+	org.netbeans.modules.editor.guards/1 [1.26.1 201411181905]
+	org.netbeans.modules.project.indexingbridge [1.13.1 201411181905]
+	org.netbeans.modules.masterfs/2 [2.48.3 201502261250]
+	org.netbeans.libs.lucene/3 [3.16.1 201411181905]
+	org.netbeans.modules.parsing.lucene/2 [2.28.1.1 1 201411181905]
+	org.netbeans.modules.projectuiapi/1 [1.78.1.8 8 201411181905]
+	org.netbeans.modules.parsing.api/1 [1.78.3.8 8 201411181905]
+	org.netbeans.modules.refactoring.api [1.40.1.1 1 201411181905]
+	org.netbeans.modules.classfile/1 [1.45.1 201411181905]
+	org.netbeans.modules.editor.indent.project/0 [1.18.1 201411181905]
+	org.netbeans.core.multiview/1 [1.40.1 201411181905]
+	org.netbeans.modules.java.lexer/1 [1.28.1 201411181905]
+	org.netbeans.modules.java.preprocessorbridge [1.35.1.1 1 201411181905]
+	org.netbeans.modules.java.source [0.138.3.32.2.25.8 32 201502261250]
+	org.netbeans.modules.project.libraries/1 [1.47.1 201411181905]
+	org.apache.xml.resolver [1.28.1.12 12 201411181905]
+	org.netbeans.api.xml/1 [1.39.1 201411181905]
+	org.netbeans.modules.xml.catalog/2 [1.37.1.4 4 201411181905]
+	org.netbeans.modules.project.ant/1 [1.60.1 201411181905]
+	org.netbeans.api.search [1.17.2 201502261250]
+	org.netbeans.modules.options.java [1.10.1 201411181905]
+	org.apache.tools.ant.module/3 [3.76.2.2 2 201502261250]
+	org.netbeans.modules.java.project/1 [1.60.1 201411181905]
+	org.netbeans.modules.settings/1 [1.45.1 201411181905]
+	org.netbeans.spi.editor.hints/0 [1.35.1.7.43 7 201411181905]
+	org.netbeans.modules.autoupdate.services [1.47.2 201411181905]
+	org.netbeans.modules.autoupdate.ui [1.41.1 201411181905]
+	org.netbeans.core.windows/2 [2.77.2 201411181905]
+	org.netbeans.modules.code.analysis/0 [1.21.2 201411181905]
+	org.netbeans.spi.java.hints [1.21.1.13.2.25.32.8 13 201411181905]
+	org.netbeans.modules.editor.tools.storage [1.4.1 201411181905]
+	org.netbeans.spi.editor.hints.projects [1.7.1.1.7 1 201411181905]
+	org.netbeans.api.debugger/1 [1.46.2 201411181905]
+	org.netbeans.spi.debugger.ui/1 [2.46.1 201411181905]
+	org.netbeans.modules.xml.core/2 [1.39.1.4 4 201411181905]
+	org.netbeans.modules.xml.xam/1 [1.28.1.1 1 201411181905]
+	org.netbeans.modules.xml.retriever/1 [1.27.1 201411181905]
+	org.netbeans.modules.xml.schema.model/1 [1.28.1.1 1 201411181905]
+	org.netbeans.modules.xml.axi [1.27.1 201411181905]
+	org.netbeans.modules.editor.bracesmatching/0 [1.34.1.43 201411181905]
+	org.netbeans.modules.editor.deprecated.pre65formatting/0 [1.23.1.1.5.22.43 1 201411181905]
+	org.netbeans.modules.editor.completion/1 [1.40.1.2 2 201411181905]
+	org.netbeans.modules.editor.codetemplates/1 [1.38.1.1 1 201411181905]
+	org.netbeans.modules.editor.breadcrumbs/0 [1.12.1 201411181905]
+	org.netbeans.core.ui/1 [1.41.1 201411181905]
+	org.netbeans.modules.jumpto/1 [1.42.1.1 1 201411181905]
+	org.netbeans.modules.editor.actions/1 [1.26.1.43 201411181905]
+	org.netbeans.modules.csl.api/2 [2.47.1.2.1.1.8 2 201411181905]
+	org.netbeans.modules.editor.structure/1 [1.43.1.1 1 201411181905]
+	org.netbeans.modules.xml.lexer [1.26.1 201411181905]
+	org.netbeans.modules.xml.text/2 [1.44.1 201411181905]
+	org.netbeans.modules.xml [1.27.1 201411181905]
+	org.netbeans.modules.servletapi/1 [1.36.1 201411181905]
+	org.netbeans.modules.httpserver/2 [2.32.1.42 42 201411181905]
+	org.netbeans.modules.xsl/1 [1.39.1 201411181905]
+	org.netbeans.modules.xml.xdm/1 [1.29.1.1 1 201411181905]
+	org.netbeans.libs.xerces/1 [1.35.1.281 281 201411181905]
+	org.netbeans.modules.xml.tax/2 [1.39.1.281 201411181905]
+	org.netbeans.modules.xml.tools/2 [1.39.1 201411181905]
+	org.netbeans.modules.xml.tools.java [1.25.1 201411181905]
+	org.netbeans.modules.xml.schema.completion [1.26.1 201411181905]
+	org.netbeans.modules.xml.multiview/1 [1.34.1.2 2 201411181905]
+	org.netbeans.modules.xml.jaxb.api/1 [1.23.1 201411181905]
+	org.netbeans.modules.xml.jaxb/1 [1.26.1 201411181905]
+	org.netbeans.modules.whitelist [1.19.1 201411181905]
+	org.netbeans.core.execution/1 [1.37.1 201411181905]
+	org.netbeans.modules.sendopts/2 [2.31.1 201411181905]
+	org.netbeans.modules.favorites/1 [1.40.1 201411181905]
+	org.netbeans.modules.projectui [1.53.1.8 201411181905]
+	org.netbeans.modules.welcome/1 [1.38.1 201411181905]
+	org.netbeans.modules.websvc.jaxws21api/1 [1.28.1 201411181905]
+	org.netbeans.libs.jaxb/1 [1.28.1 201411181905]
+	org.netbeans.modules.websvc.jaxws21/1 [1.29.1 201411181905]
+	org.netbeans.libs.json_simple/1 [0.9.1 201411181905]
+	org.netbeans.modules.web.webkit.debugging [1.36.2 201502261250]
+	org.netbeans.modules.web.common [1.70.1 201411181905]
+	org.netbeans.modules.web.indent [1.16.1 201411181905]
+	org.netbeans.modules.extexecution/2 [1.42.1 201411181905]
+	org.netbeans.modules.extbrowser/1 [1.48.1 201411181905]
+	org.netbeans.modules.web.browser.api [1.40.1 201411181905]
+	org.netbeans.modules.versioning.core/1 [1.21.1.1.42 1 201411181905]
+	org.netbeans.modules.versioning/1 [1.43.1.1 1 201411181905]
+	org.netbeans.modules.spellchecker.apimodule [1.21.1 201411181905]
+	org.netbeans.modules.versioning.util [1.60.1.42.1 201411181905]
+	org.netbeans.modules.team.commons [1.42.1 201411181905]
+	org.netbeans.modules.versioning.ui/1 [1.18.1.42.1 201411181905]
+	org.netbeans.modules.versioning.system.cvss.installer [1.12.1 201411181905]
+	org.netbeans.modules.versioning.masterfs [1.10.1 201411181905]
+	org.netbeans.modules.versioning.indexingbridge/0 [1.21.1 201411181905]
+	org.netbeans.modules.utilities/1 [1.56.1 201411181905]
+	org.netbeans.modules.utilities.project/1 [1.34.1 201411181905]
+	org.netbeans.modules.javahelp/1 [2.37.1 201411181905]
+	org.netbeans.modules.usersguide/1 [1.45.1 201411181905]
+	org.netbeans.modules.updatecenters/1 [1.36.2 201411181905]
+	org.netbeans.lib.uihandler [1.41.1 201411181905]
+	org.netbeans.modules.uihandler [2.31.2 201412101605]
+	org.netbeans.modules.uihandler.exceptionreporter [1.25.1 201411181905]
+	org.jdesktop.beansbinding/1 [1.24.1.121 121 201411181905]
+	org.apache.commons.logging [1.1.1 1.1.1]
+	org.netbeans.modules.maven.embedder/2 [2.46.1 201411181905]
+	org.netbeans.modules.maven.indexer/2 [2.31.1 201411181905]
+	org.apache.commons.codec [1.3.0 1.3.0]
+	org.netbeans.modules.maven.model/1 [1.38.1 201411181905]
+	org.netbeans.modules.java.sourceui/1 [1.38.3.1.32 1 201502261250]
+	org.netbeans.modules.java.api.common/0 [1.72.1 201411181905]
+	org.netbeans.api.debugger.jpda/2 [2.49.2 201411181905]
+	org.netbeans.modules.swing.validation/2 [1.28.1 201411181905]
+	org.netbeans.modules.maven/2 [2.107.5 201502261250]
+	org.netbeans.modules.gsf.testrunner/1 [1.43.1 201411181905]
+	org.netbeans.modules.gototest/1 [1.28.1 201411181905]
+	org.netbeans.libs.testng/1 [1.11.1 201411181905]
+	org.netbeans.modules.java.testrunner [1.13.1 201411181905]
+	org.netbeans.modules.testng [2.15.1 201411181905]
+	org.netbeans.modules.testng.maven [2.12.1 201411181905]
+	org.netbeans.modules.testng.ant [2.11.1 201411181905]
+	org.netbeans.lib.terminalemulator [1.31.3 201502261250]
+	org.netbeans.modules.terminal [1.19.2 201502261250]
+	org.netbeans.modules.templates/1 [1.3.1 201411181905]
+	org.netbeans.libs.swingx/1 [1.24.1 201411181905]
+	org.netbeans.modules.team.ide [1.9.1 201411181905]
+	org.netbeans.modules.tasklist.ui/1 [1.27.1.1.1 1 201411181905]
+	org.netbeans.modules.tasklist.todo/1 [1.27.1.1 1 201411181905]
+	org.netbeans.modules.tasklist.projectint/1 [1.25.1 201411181905]
+	org.netbeans.modules.tasklist.kit [1.25.1 201411181905]
+	org.netbeans.libs.ini4j/1 [1.27.1 201411181905]
+	org.netbeans.libs.svnClientAdapter/1 [1.36.1 201411181905]
+	org.netbeans.modules.subversion [1.37.1.42.1 201411181905]
+	org.netbeans.libs.cglib/1 [1.23.1 201411181905]
+	org.netbeans.libs.springframework/1 [1.34.1 201411181905]
+	org.netbeans.modules.j2ee.core.utilities/0 [1.29.1 201411181905]
+	org.netbeans.modules.j2ee.metadata/0 [1.28.1 201411181905]
+	org.netbeans.modules.ant.browsetask [1.37.1 201411181905]
+	org.netbeans.modules.ant.debugger/1 [1.33.1.2 201411181905]
+	org.netbeans.modules.ant.freeform/1 [1.42.1 201411181905]
+	org.netbeans.core.ide/1 [1.37.1 201411181905]
+	org.netbeans.core.multitabs/1 [1.8.1.1 1 201411181905]
+	org.netbeans.modules.editor.bookmarks/1 [1.33.1 201411181905]
+	org.netbeans.modules.editor.plain.lib/1 [1.30.1 201411181905]
+	com.jcraft.jsch [0.1.49 0.1.49]
+	org.netbeans.libs.jna/1 [1.38.1 201411181905]
+	org.netbeans.modules.dlight.nativeexecution [1.34.5.1 1 201502261250]
+	org.netbeans.modules.dlight.terminal [1.19.2.1 1 201502261250]
+	org.netbeans.core.multitabs.project [1.6.1.1.1 1 201411181905]
+	org.netbeans.modules.editor.search [1.19.1.0.43 0 201411181905]
+	org.netbeans.modules.languages.diff [1.29.1 201411181905]
+	org.netbeans.modules.html.lexer/1 [1.35.1 201411181905]
+	org.netbeans.modules.html.editor.lib/3 [3.27.1 201411181905]
+	org.netbeans.modules.html.parser/1 [1.29.1.1 1 201411181905]
+	org.netbeans.modules.html.validation/1 [1.26.1 201411181905]
+	org.netbeans.libs.antlr3.runtime [1.18.1.1 1 201411181905]
+	org.netbeans.modules.css.lib/1 [1.72.1 201411181905]
+	org.netbeans.modules.css.model [1.27.1 201411181905]
+	org.netbeans.modules.css.editor/1 [1.62.1 201411181905]
+	org.netbeans.modules.html/1 [1.56.1 201411181905]
+	org.netbeans.modules.html.editor/2 [2.49.2 201502261250]
+	org.netbeans.libs.nashorn/1 [1.16.1 201411181905]
+	org.netbeans.modules.javascript2.editor/1 [0.44.4 201503101352]
+	org.netbeans.modules.javascript2.prototypejs [0.1.1 201411181905]
+	org.netbeans.modules.javascript2.requirejs [0.1.1 201411181905]
+	org.netbeans.modules.javascript2.extjs [1.4.1 201411181905]
+	org.netbeans.modules.javascript2.jquery [1.4.1 201411181905]
+	org.netbeans.modules.javascript2.knockout [1.4.1 201411181905]
+	org.netbeans.modules.javascript2.kit/1 [0.9.1 201411181905]
+	org.netbeans.modules.languages.manifest [1.28.1 201411181905]
+	org.netbeans.core.output2/1 [1.37.1 201411181905]
+	org.netbeans.modules.css.visual/3 [3.27.1 201411181905]
+	org.netbeans.modules.properties/1 [1.50.1 201411181905]
+	org.netbeans.libs.bytelist/1 [0.24.1.1 1 201411181905]
+	org.netbeans.libs.jvyamlb/1 [0.26.1 201411181905]
+	org.netbeans.modules.languages.yaml [2.28.1 201411181905]
+	org.netbeans.modules.image/1 [1.44.1 201411181905]
+	org.netbeans.modules.editor.kit [1.29.1 201411181905]
+	org.netbeans.modules.print [7.22.1 201411181905]
+	org.netbeans.modules.autoupdate.cli [1.9.1 201411181905]
+	org.netbeans.libs.osgi [1.18.1 201411181905]
+	org.netbeans.libs.felix [2.12.1 201411181905]
+	org.netbeans.modules.core.kit [1.26.1 201411181905]
+	org.netbeans.modules.defaults/1 [1.28.1 201411181905]
+	org.netbeans.modules.print.editor [7.23.1 201411181905]
+	org.netbeans.modules.editor.macros/0 [1.27.1.1.22 1 201411181905]
+	org.netbeans.modules.editor.plain/2 [1.31.1 201411181905]
+	org.netbeans.modules.ide.kit [1.29.1 201411181905]
+	org.netbeans.modules.projectui.buildmenu/1 [1.23.1.1 1 201411181905]
+	org.netbeans.modules.ant.kit [1.26.1 201411181905]
+	org.netbeans.modules.i18n/1 [1.49.1 201411181905]
+	org.netbeans.modules.refactoring.java/1 [1.51.3.1 1 201502261250]
+	org.netbeans.modules.j2ee.metadata.model.support/1 [1.27.1 201411181905]
+	org.netbeans.modules.j2ee.persistenceapi/1 [1.30.1.1 1 201411181905]
+	org.netbeans.modules.debugger.jpda.ant [1.34.1 201411181905]
+	org.netbeans.modules.java.j2seproject/1 [1.75.2.48 48 201411181905]
+	org.netbeans.modules.javawebstart [1.28.1 201411181905]
+	org.netbeans.modules.junit/2 [2.64.1 201411181905]
+	org.netbeans.modules.java.freeform/1 [1.39.1 201411181905]
+	org.netbeans.modules.java.j2seembedded [1.5.1 201411181905]
+	org.netbeans.modules.java.debug [1.33.1.1.25.32 1 201411181905]
+	org.netbeans.modules.java.examples/1 [1.32.1 201411181905]
+	org.netbeans.modules.java.hints.ui [1.13.1.1.13 1 201411181905]
+	org.netbeans.modules.java.editor.lib/1 [1.34.1 201411181905]
+	org.netbeans.modules.java.editor/1 [2.60.2.10.1.1 10 201502261250]
+	org.netbeans.modules.java.navigation/1 [1.35.1 201411181905]
+	org.netbeans.modules.findbugs.installer [1.12.1 201411181905]
+	org.netbeans.modules.java.hints.legacy.spi/1 [1.11.1.1.13 1 201411181905]
+	org.netbeans.modules.java.hints/1 [1.76.2.15.10.1.32.1.13 15 201502261250]
+	org.netbeans.modules.java.hints.declarative/1 [1.16.1.1.15.1.13 1 201411181905]
+	org.netbeans.modules.java.j2seprofiles [1.4.1 201411181905]
+	org.netbeans.modules.java.j2sedeploy [1.8.1 201411181905]
+	org.netbeans.modules.java.j2seplatform/1 [1.37.2 201411181905]
+	org.netbeans.modules.javadoc/1 [1.50.1 201411181905]
+	org.netbeans.modules.nashorn.execution/1 [1.2.1 201411181905]
+	org.netbeans.modules.beans/1 [1.46.1.1.10 1 201411181905]
+	org.netbeans.modules.spellchecker.bindings.java/1 [1.26.1 201411181905]
+	org.netbeans.modules.java.source.ant [1.26.1.1.32 1 201411181905]
+	org.netbeans.modules.projectimport.eclipse.core/1 [2.26.1 201411181905]
+	org.netbeans.modules.java.kit [1.29.1 201411181905]
+	org.netbeans.modules.spring.beans/0 [1.35.1.1 1 201411181905]
+	org.netbeans.modules.spellchecker [1.31.1.1.7 1 201411181905]
+	org.netbeans.modules.spellchecker.kit [1.22.1 201411181905]
+	org.netbeans.modules.spellchecker.dictionary_en [1.19.1 201411181905]
+	org.netbeans.modules.properties.syntax/1 [1.46.1 201411181905]
+	org.netbeans.modules.spellchecker.bindings.properties [1.18.1 201411181905]
+	org.netbeans.modules.spellchecker.bindings.htmlxml [1.23.1 201411181905]
+	org.netbeans.modules.server/0 [1.29.1 201411181905]
+	org.netbeans.modules.schema2beans/1 [1.43.1 201411181905]
+	org.netbeans.modules.projectimport.eclipse.j2se [1.24.1.48 201411181905]
+	org.netbeans.modules.progress.ui [1.29.2 201411181905]
+	org.netbeans.modules.profiler.utilities/1 [1.31.1 201411181905]
+	org.netbeans.lib.profiler/1 [1.59.3 201502261250]
+	org.netbeans.lib.profiler.charts/1 [1.25.1 201411181905]
+	org.netbeans.lib.profiler.common/1 [1.32.1 201411181905]
+	org.netbeans.modules.profiler.api/1 [1.19.1 201411181905]
+	org.netbeans.lib.profiler.ui/1 [1.45.1 201411181905]
+	org.netbeans.modules.profiler.attach/2 [2.15.1 201411181905]
+	org.netbeans.modules.profiler.selector.api/1 [1.29.1 201411181905]
+	org.netbeans.modules.profiler.selector.ui/1 [1.26.1 201411181905]
+	org.netbeans.modules.profiler/2 [2.22.1 201411181905]
+	org.netbeans.modules.profiler.ppoints [1.14.1 201411181905]
+	org.netbeans.modules.profiler.stp [1.12.1 201411181905]
+	org.netbeans.modules.profiler.snaptracer/1 [1.17.1 201411181905]
+	org.netbeans.modules.profiler.projectsupport [1.28.1 201411181905]
+	org.netbeans.modules.profiler.oql/2 [2.12.1 201411181905]
+	org.netbeans.modules.profiler.oql.language/0 [0.25.1 201411181905]
+	org.netbeans.modules.profiler.options [1.13.1 201411181905]
+	org.netbeans.modules.profiler.categorization.api/1 [1.13.1 201411181905]
+	org.netbeans.modules.profiler.nbimpl/1 [1.14.1 201411181905]
+	org.netbeans.modules.profiler.nbmodule/1 [1.30.1 201411181905]
+	org.netbeans.modules.profiler.heapwalker [1.99.1 201411181905]
+	org.netbeans.modules.profiler.drilldown/1 [1.12.1 201411181905]
+	org.netbeans.modules.profiler.kit [1.14.1 201411181905]
+	org.netbeans.modules.profiler.j2se/1 [1.31.1 201411181905]
+	org.netbeans.modules.j2eeapis/1 [1.32.1 201411181905]
+	org.netbeans.modules.j2ee.dd/1 [1.39.1.2 2 201411181905]
+	org.netbeans.modules.j2ee.core/0 [1.23.1 201411181905]
+	org.netbeans.api.web.webmodule [1.37.1 201411181905]
+	org.netbeans.modules.j2ee.api.ejbmodule [1.36.1 201411181905]
+	org.netbeans.modules.j2eeserver/4 [1.107.1.1 1 201411181905]
+	org.netbeans.modules.db.metadata.model/1 [1.7.1 201411181905]
+	org.netbeans.modules.db/1 [1.61.1.30 30 201411181905]
+	org.netbeans.modules.dbapi [1.30.1.30 201411181905]
+	org.netbeans.modules.dbschema/1 [1.36.1.4.30 4 201411181905]
+	org.netbeans.modules.javaee.injection [1.3.1 201411181905]
+	org.netbeans.modules.j2ee.eclipselink/1 [1.29.2 201411181905]
+	org.netbeans.modules.j2ee.persistence [1.46.2.1 1 201411181905]
+	org.netbeans.modules.profiler.j2ee/1 [1.31.1 201411181905]
+	org.netbeans.modules.profiler.freeform/1 [1.30.1 201411181905]
+	org.netbeans.modules.parsing.ui [1.10.1 201411181905]
+	org.netbeans.modules.notifications [1.4.1 201411181905]
+	org.netbeans.core.netigso [1.27.1 201411181905]
+	org.netbeans.modules.netbinox [1.36.1 201411181905]
+	org.eclipse.mylyn.commons.net [3.10.0 3.10.0.20131018-1210]
+	org.eclipse.mylyn.tasks.core [3.10.0 3.10.0.20131010-2023]
+	org.eclipse.core.jobs [3.5.101 3.5.101.v20120113-1953]
+	org.eclipse.mylyn.wikitext.core [1.9.0 1.9.0.20131007-2055]
+	org.netbeans.modules.bugtracking [1.102.2 201411181905]
+	org.eclipse.equinox.common [3.6.0 3.6.0.v20110523]
+	org.eclipse.core.runtime [3.7.0 3.7.0.v20110110]
+	org.netbeans.modules.mylyn.util [1.28.1 201411181905]
+	org.netbeans.modules.mercurial [1.38.2.42.1 201411181905]
+	org.netbeans.modules.maven.spring/1 [1.25.1 201411181905]
+	org.netbeans.modules.gsf.codecoverage [1.28.1 201411181905]
+	org.netbeans.modules.maven.coverage [1.19.1 201411181905]
+	org.netbeans.modules.maven.repository/1 [1.38.1 201411181905]
+	org.netbeans.api.visual [2.43.1 201411181905]
+	org.netbeans.modules.maven.graph/1 [1.28.1 201411181905]
+	org.netbeans.modules.maven.grammar/1 [1.42.1.1 201411181905]
+	org.netbeans.modules.maven.osgi/1 [1.30.1 201411181905]
+	org.netbeans.modules.maven.refactoring [1.16.1 201411181905]
+	org.netbeans.modules.maven.checkstyle [1.13.1 201411181905]
+	org.netbeans.modules.maven.kit/1 [4.27.1 201411181905]
+	org.netbeans.modules.maven.search [1.28.1 201411181905]
+	org.netbeans.modules.maven.profiler/1 [1.26.1 201411181905]
+	org.netbeans.modules.maven.persistence/1 [1.25.1 201411181905]
+	org.netbeans.modules.maven.junit/1 [1.28.1 201411181905]
+	org.netbeans.modules.maven.hints/1 [1.36.1 201411181905]
+	org.netbeans.modules.masterfs.nio2 [1.12.1 201411181905]
+	org.netbeans.modules.masterfs.linux [1.10.1 201411181905]
+	org.netbeans.modules.bugtracking.commons [1.3.1 201411181905]
+	org.netbeans.modules.localtasks [1.21.1 201411181905]
+	org.netbeans.modules.localhistory [1.30.1 201411181905]
+	org.netbeans.modules.lexer.nbbridge/1 [1.28.1.1 201411181905]
+	org.netbeans.modules.keyring.fallback [1.4.1 201411181905]
+	org.netbeans.modules.keyring.impl [1.20.1 201411181905]
+	org.netbeans.modules.javascript2.debug/1 [1.3.1 201411181905]
+	org.netbeans.modules.javafx2.platform [1.22.2 201411181905]
+	org.netbeans.modules.javafx2.project [1.26.1 201411181905]
+	org.netbeans.modules.javafx2.editor [1.17.1.10.32 201411181905]
+	org.netbeans.modules.javafx2.scenebuilder [1.13.1 201411181905]
+	org.netbeans.modules.javafx2.samples [1.13.1 201411181905]
+	org.netbeans.modules.j2ee.eclipselinkmodelgen/1 [1.29.2 201411181905]
+	org.netbeans.modules.j2ee.jpa.refactoring [1.27.1 201411181905]
+	org.netbeans.modules.j2ee.jpa.verification [1.31.2 201411181905]
+	org.netbeans.modules.db.dataview [1.25.1 201411181905]
+	org.netbeans.modules.db.core [1.32.1 201411181905]
+	org.netbeans.modules.db.sql.editor [1.32.1.30 201411181905]
+	org.netbeans.modules.db.drivers [1.26.1 201411181905]
+	org.netbeans.modules.db.sql.visualeditor/1 [2.27.1.30 201411181905]
+	org.netbeans.modules.db.mysql [0.24.1.2 2 201411181905]
+	org.netbeans.modules.derby [1.36.1 201411181905]
+	org.netbeans.modules.db.kit [1.27.1 201411181905]
+	org.netbeans.modules.j2ee.persistence.kit [1.29.1 201411181905]
+	org.netbeans.modules.debugger.jpda.projects [1.30.2 201411181905]
+	org.netbeans.modules.debugger.jpda/2 [1.73.3.80 80 201411181905]
+	org.netbeans.modules.debugger.jpda.ui/1 [1.44.1 201411181905]
+	org.netbeans.modules.debugger.jpda.visual/1 [1.13.3 201502261250]
+	org.netbeans.modules.debugger.jpda.js/1 [1.2.2 201502261250]
+	org.netbeans.modules.debugger.jpda.kit [1.12.1 201411181905]
+	org.netbeans.modules.java.guards/0 [0.27.1 201411181905]
+	org.netbeans.modules.java.source.queries [1.14.1 201411181905]
+	org.netbeans.modules.form/2 [1.53.1.4 4 201411181905]
+	org.jdesktop.layout/1 [1.30.1 201411181905]
+	org.netbeans.modules.form.nb/0 [0.14.1.1.4 1 201411181905]
+	org.netbeans.modules.form.binding/0 [0.13.1.1.4.1 1 201411181905]
+	org.netbeans.modules.i18n.form/2 [1.46.1.4.1 201411181905]
+	org.netbeans.modules.form.refactoring/0 [0.13.1.1.4.1 1 201411181905]
+	org.netbeans.modules.form.kit [1.25.1 201411181905]
+	org.netbeans.modules.javafx2.kit [1.14.1 201411181905]
+	org.netbeans.modules.java.source.queriesimpl [1.13.1 201411181905]
+	org.netbeans.modules.java.metrics [1.4.1 201411181905]
+	org.netbeans.modules.ide.ergonomics [1.25.1 201411181905]
+	org.netbeans.modules.autoupdate.pluginimporter [1.16.1 201411181905]
+	org.netbeans.modules.deadlock.detector [1.2.1 201411181905]
+	org.netbeans.modules.ide.branding/1 [1.29.2 201411181905]
+	org.netbeans.modules.ide.branding.kit [1.25.1 201411181905]
+	org.netbeans.libs.commons_net/2 [2.17.1.33 33 201411181905]
+	org.netbeans.modules.hudson [2.7.2 201411181905]
+	org.netbeans.modules.hudson.ui [1.6.1 201411181905]
+	org.netbeans.modules.hudson.tasklist [1.13.1 201411181905]
+	org.netbeans.modules.hudson.subversion [1.25.1 201411181905]
+	org.netbeans.modules.hudson.mercurial [1.25.1 201411181905]
+	org.netbeans.modules.hudson.maven [1.25.1 201411181905]
+	org.netbeans.modules.hudson.git [1.14.1 201411181905]
+	org.netbeans.modules.hudson.ant [1.23.1 201411181905]
+	org.netbeans.modules.html.knockout [1.6.1 201411181905]
+	org.netbeans.modules.html.custom [1.2.1 201411181905]
+	org.netbeans.core.browser/1 [1.24.1.1 1 201411181905]
+	org.netbeans.modules.html.angular [1.7.2 201411181905]
+	org.netbeans.libs.freemarker/1 [2.30.1.238 238 201411181905]
+	org.netbeans.modules.hibernate4lib/1 [1.4.1.238 201411181905]
+	org.netbeans.modules.hibernate/1 [1.29.1.1 1 201411181905]
+	org.netbeans.modules.hibernateweb [1.22.1 201411181905]
+	org.eclipse.jgit [3.6.2 3.6.2.201501210735-r]
+	org.netbeans.libs.jna.platform/1 [1.8.1 201411181905]
+	org.netbeans.libs.jsch.agentproxy/1 [0.9.1 201411181905]
+	org.netbeans.libs.git/1 [1.27.2 201411181905]
+	org.netbeans.modules.git [1.16.2.1 201411181905]
+	org.netbeans.modules.form.j2ee/0 [0.29.1.1.4.1 1 201411181905]
+	org.apache.commons.io [1.4 1.4]
+	org.netbeans.modules.extexecution.impl [1.21.1 201411181905]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.27.1 201411181905]
+	org.netbeans.modules.editor.global.format/1 [1.11.1.1 1 201411181905]
+	org.netbeans.modules.debugger.jpda.heapwalk/1 [1.27.1 201411181905]
+	org.netbeans.modules.css.prep [1.21.2 201411181905]
+	org.eclipse.mylyn.bugzilla.core [3.10.0 3.10.0.20131024-1218]
+	org.apache.commons.httpclient [3.1.0 3.1.0]
+	org.netbeans.modules.bugzilla [1.72.2 201411181905]
+	org.netbeans.modules.bugzilla.exceptionreporter [1.20.1 201411181905]
+	org.netbeans.modules.bugtracking.bridge [1.41.1 201411181905]
+	org.netbeans.modules.ant.grammar/1 [1.40.1 201411181905]
+	org.netbeans.libs.svnClientAdapter.svnkit/1 [1.21.2 201502261250]
+	org.netbeans.libs.svnClientAdapter.javahl/1 [1.20.1 201411181905]
+	org.netbeans.libs.javafx [2.4.1 201411181905]
+	org.netbeans.core.network [1.6.1 201411181905]
+	org.netbeans.core.nativeaccess/1 [1.27.1 201411181905]
+	org.netbeans.core.io.ui/1 [1.26.1 201411181905]
+	org.netbeans.core.browser.webview/1 [1.11.1.1.1 1 201411181905]
+	org.fei.ClassDiagramEditor [1.0 150527]
+	org.eclipse.mylyn.commons.xmlrpc [3.10.0 3.10.0.20130704-2116]
+	org.eclipse.mylyn.commons.repositories.core [1.2.0 1.2.0.20130704-2116]
+	org.eclipse.mylyn.commons.core [3.10.0 3.10.0.20130926-1710]
+	org.eclipse.equinox.security [1.1.1 1.1.1.R37x_v20110822-1018]
+	org.eclipse.equinox.registry [3.5.200 3.5.200.v20120522-1841]
+	org.eclipse.equinox.preferences [3.4.2 3.4.2.v20120111-2020]
+	org.eclipse.equinox.app [1.3.100 1.3.100.v20110321]
+	org.eclipse.core.runtime.compatibility.auth [3.2.200 3.2.200.v20110110]
+	org.eclipse.core.net [1.2.100 1.2.100.I20110511-0800]
+	org.eclipse.core.contenttype [3.4.100 3.4.100.v20110423-0524]
+	org.apache.xmlrpc [3.0.0 3.0.0]
+	org.apache.ws.commons.util [1.0.1 1.0.1]
+	org.apache.commons.lang [2.4.0 2.4.0]
+	javaewah.dummy [0.7.9 0.7.9]
+	com.jcraft.jzlib [1.0.7 1.0.7]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.jgit.java7@3.4.1.201406201815-r resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.textile.core@1.9.0.20131007-2055 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.mylyn.wikitext.confluence.core@1.9.0.20131007-2055 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 started
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Gnome
+INFO [org.netbeans.core.network.proxy.gnome.GsettingsNetworkProxy]: GSettings system proxy resolver: direct connection
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
+WARNING [org.openide.filesystems.Ordering]: Not all children in Toolbars/ marked with the position attribute: [ClassDiagramPlugin], but some are: [File, Clipboard, UndoRedo, Build, Debug, Memory, Standard.xml, Debugging.xml]
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FB92t#002Ehistory#007C_13'. Reason:  Object not found: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocumentController.java@f88d643c:15840f6[invalid]. It was probably deleted.
+
+msg
+msg
+msg
+msg
+Caused: org.openide.filesystems.FileStateInvalidException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocumentController.java@f88d643c:15840f6[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:559)
+Caused: org.openide.loaders.DataObjectNotFoundException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocumentController.java@f88d643c:15840f6[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:582)
+	at org.openide.loaders.DataObject$Replace.readObject(DataObject.java:1200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:501)
+	at org.openide.loaders.OpenSupport$Env.readObject(OpenSupport.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1918)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.openide.windows.CloneableTopComponent.readExternal(CloneableTopComponent.java:254)
+	at org.netbeans.core.multiview.MultiViewCloneableTopComponent.readExternal(MultiViewCloneableTopComponent.java:275)
+	at org.openide.windows.TopComponent$Replacer.readObject(TopComponent.java:1859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.readSerial(XMLSettingsSupport.java:571)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:603)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+ALL [null]: The file /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocumentController.java seems no longer valid!
+Content: 
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.core.multiview/1" spec="1.40.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewCloneableTopComponent"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewModel$ActionRequestObserverFactory"/>
+    <instanceof class="org.netbeans.core.multiview.Splitable"/>
+    <instanceof class="org.openide.text.CloneableEditorSupport$Pane"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.CloneableTopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent$Cloneable"/>
+    <serialdata class="org.netbeans.core.multiview.MultiViewCloneableTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D64030000787074003A6F72672E6E65746265616E732E636F72652E6D756C7469766965772E4D756C74695669
+        6577436C6F6E6561626C65546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D37133460DA52
+        02000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000
+        000174001B46584D4C446F63756D656E74436F6E74726F6C6C65722E6A6176617400552F686F6D652F6D6169726F3734342F
+        4E65744265616E7350726F6A656374732F4B616C6B756C61636B612F7372632F6B616C6B756C61636B612F46584D4C446F63
+        756D656E74436F6E74726F6C6C65722E6A61766171007E000670737200316F72672E6F70656E6964652E77696E646F77732E
+        436C6F6E6561626C654F70656E537570706F7274244C697374656E6572E525E314060C682D0200014C0003656E7674002E4C
+        6F72672F6F70656E6964652F77696E646F77732F436C6F6E6561626C654F70656E537570706F727424456E763B7872002D6F
+        72672E6F70656E6964652E77696E646F77732E436C6F6E6561626C65546F70436F6D706F6E656E74245265664CED3888AC52
+        4ABC0200007870737200396F72672E6E65746265616E732E6D6F64756C65732E6F70656E6964652E6C6F61646572732E5369
+        6D706C65455324456E7669726F6E6D656E744BA762A1D4D7CAE70200014C0005656E74727974002B4C6F72672F6F70656E69
+        64652F6C6F61646572732F4D756C7469446174614F626A65637424456E7472793B787200266F72672E6F70656E6964652E74
+        6578742E44617461456469746F72537570706F727424456E76D720E894A9D2FA270200014900154249475F46494C455F5448
+        524553484F4C445F4D42787200236F72672E6F70656E6964652E6C6F61646572732E4F70656E537570706F727424456E76E5
+        25E314060C682D0200014C00036F626A7400204C6F72672F6F70656E6964652F6C6F61646572732F446174614F626A656374
+        3B7870737200266F72672E6F70656E6964652E6C6F61646572732E446174614F626A656374245265706C616365F7497413DE
+        EC538E0200014C0002666F7400244C6F72672F6F70656E6964652F66696C6573797374656D732F46696C654F626A6563743B
+        78707372004D6F72672E6E65746265616E732E6D6F64756C65732E6D617374657266732E66696C65626173656466732E6669
+        6C656F626A656374732E5265706C616365466F7253657269616C697A6174696F6E98978CE6D3E9619F0200014C000C616273
+        6F6C757465506174687400124C6A6176612F6C616E672F537472696E673B78707400552F686F6D652F6D6169726F3734342F
+        4E65744265616E7350726F6A656374732F4B616C6B756C61636B612F7372632F6B616C6B756C61636B612F46584D4C446F63
+        756D656E74436F6E74726F6C6C65722E6A61766100000001737200306F72672E6F70656E6964652E6C6F61646572732E4D75
+        6C7469446174614F626A65637424456E7472795265706C616365EB3332ABDAFB88A20200014C000466696C6571007E001378
+        7071007E001774000B746578742F782D6A61766171007E001474000B6A6176612E736F757263657372003B6F72672E6E6574
+        6265616E732E636F72652E7370692E6D756C7469766965772E746578742E4D756C746956696577456469746F72456C656D65
+        6E74000187D8CEF94C9B0200014C0006656469746F7274003F4C6F72672F6E65746265616E732F636F72652F7370692F6D75
+        6C7469766965772F746578742F4D756C746956696577436C6F6E6561626C65456469746F723B78707371007E000074003D6F
+        72672E6E65746265616E732E636F72652E7370692E6D756C7469766965772E746578742E4D756C746956696577436C6F6E65
+        61626C65456469746F727371007E0003000177040000000071007E000671007E000771007E0006707371007E000A71007E00
+        11737200116A6176612E6C616E672E496E746567657212E2A0A4F781873802000149000576616C75657871007E0004000000
+        007701007871007E001C74000C746578742E686973746F727971007E00267371007E0024000000007371007E002400000000
+        7371007E0024FFFFFFFF7400213C68746D6C3E46584D4C446F63756D656E74436F6E74726F6C6C65722E6A61766178
+    </serialdata>
+</settings>
+ALL [null]: Source: MultiFileObject@738bc2[Windows2Local/Components/MultiView-java#002Eso888FB92t#002Ehistory#007C_13.settings]
+ALL [null]: Cannot read class: org.netbeans.core.multiview.MultiViewCloneableTopComponent
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-xml#002Etex23F1BEEFtext#002Ehistory#007C'. Reason:  Object not found: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocument.fxml@e0f2ef69:16f722b[invalid]. It was probably deleted.
+
+msg
+msg
+msg
+msg
+Caused: org.openide.filesystems.FileStateInvalidException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocument.fxml@e0f2ef69:16f722b[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:559)
+Caused: org.openide.loaders.DataObjectNotFoundException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocument.fxml@e0f2ef69:16f722b[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:582)
+	at org.openide.loaders.DataObject$Replace.readObject(DataObject.java:1200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:501)
+	at org.openide.loaders.OpenSupport$Env.readObject(OpenSupport.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1918)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.openide.windows.CloneableTopComponent.readExternal(CloneableTopComponent.java:254)
+	at org.netbeans.core.multiview.MultiViewCloneableTopComponent.readExternal(MultiViewCloneableTopComponent.java:275)
+	at org.openide.windows.TopComponent$Replacer.readObject(TopComponent.java:1859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.readSerial(XMLSettingsSupport.java:571)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:603)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+ALL [null]: The file /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/FXMLDocument.fxml seems no longer valid!
+Content: 
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.core.multiview/1" spec="1.40.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewCloneableTopComponent"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewModel$ActionRequestObserverFactory"/>
+    <instanceof class="org.netbeans.core.multiview.Splitable"/>
+    <instanceof class="org.openide.text.CloneableEditorSupport$Pane"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.CloneableTopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent$Cloneable"/>
+    <serialdata class="org.netbeans.core.multiview.MultiViewCloneableTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D64030000787074003A6F72672E6E65746265616E732E636F72652E6D756C7469766965772E4D756C74695669
+        6577436C6F6E6561626C65546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D37133460DA52
+        02000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000
+        000174001146584D4C446F63756D656E742E66786D6C74004B2F686F6D652F6D6169726F3734342F4E65744265616E735072
+        6F6A656374732F4B616C6B756C61636B612F7372632F6B616C6B756C61636B612F46584D4C446F63756D656E742E66786D6C
+        71007E000670737200316F72672E6F70656E6964652E77696E646F77732E436C6F6E6561626C654F70656E537570706F7274
+        244C697374656E6572E525E314060C682D0200014C0003656E7674002E4C6F72672F6F70656E6964652F77696E646F77732F
+        436C6F6E6561626C654F70656E537570706F727424456E763B7872002D6F72672E6F70656E6964652E77696E646F77732E43
+        6C6F6E6561626C65546F70436F6D706F6E656E74245265664CED3888AC524ABC0200007870737200396F72672E6E65746265
+        616E732E6D6F64756C65732E6F70656E6964652E6C6F61646572732E53696D706C65455324456E7669726F6E6D656E744BA7
+        62A1D4D7CAE70200014C0005656E74727974002B4C6F72672F6F70656E6964652F6C6F61646572732F4D756C746944617461
+        4F626A65637424456E7472793B787200266F72672E6F70656E6964652E746578742E44617461456469746F72537570706F72
+        7424456E76D720E894A9D2FA270200014900154249475F46494C455F5448524553484F4C445F4D42787200236F72672E6F70
+        656E6964652E6C6F61646572732E4F70656E537570706F727424456E76E525E314060C682D0200014C00036F626A7400204C
+        6F72672F6F70656E6964652F6C6F61646572732F446174614F626A6563743B7870737200266F72672E6F70656E6964652E6C
+        6F61646572732E446174614F626A656374245265706C616365F7497413DEEC538E0200014C0002666F7400244C6F72672F6F
+        70656E6964652F66696C6573797374656D732F46696C654F626A6563743B78707372004D6F72672E6E65746265616E732E6D
+        6F64756C65732E6D617374657266732E66696C65626173656466732E66696C656F626A656374732E5265706C616365466F72
+        53657269616C697A6174696F6E98978CE6D3E9619F0200014C000C6162736F6C757465506174687400124C6A6176612F6C61
+        6E672F537472696E673B787074004B2F686F6D652F6D6169726F3734342F4E65744265616E7350726F6A656374732F4B616C
+        6B756C61636B612F7372632F6B616C6B756C61636B612F46584D4C446F63756D656E742E66786D6C00000001737200306F72
+        672E6F70656E6964652E6C6F61646572732E4D756C7469446174614F626A65637424456E7472795265706C616365EB3332AB
+        DAFB88A20200014C000466696C6571007E0013787071007E001774000F746578742F782D66786D6C2B786D6C71007E001474
+        0008786D6C2E746578747372003B6F72672E6E65746265616E732E636F72652E7370692E6D756C7469766965772E74657874
+        2E4D756C746956696577456469746F72456C656D656E74000187D8CEF94C9B0200014C0006656469746F7274003F4C6F7267
+        2F6E65746265616E732F636F72652F7370692F6D756C7469766965772F746578742F4D756C746956696577436C6F6E656162
+        6C65456469746F723B78707371007E000074003D6F72672E6E65746265616E732E636F72652E7370692E6D756C7469766965
+        772E746578742E4D756C746956696577436C6F6E6561626C65456469746F727371007E0003000177040000000071007E0006
+        71007E000771007E0006707371007E000A71007E0011737200116A6176612E6C616E672E496E746567657212E2A0A4F78187
+        3802000149000576616C75657871007E0004000000007701007871007E001C74000C746578742E686973746F727971007E00
+        267371007E0024000000007371007E0024000000007371007E0024FFFFFFFF7400173C68746D6C3E46584D4C446F63756D65
+        6E742E66786D6C78
+    </serialdata>
+</settings>
+ALL [null]: Source: MultiFileObject@5ad143[Windows2Local/Components/MultiView-xml#002Etex23F1BEEFtext#002Ehistory#007C.settings]
+ALL [null]: Cannot read class: org.netbeans.core.multiview.MultiViewCloneableTopComponent
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso888FB93t#002Ehistory#007C_14'. Reason:  Object not found: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/KalkulackaTrieda.java@85fc8eab:1fe4d05[invalid]. It was probably deleted.
+
+msg
+msg
+msg
+msg
+Caused: org.openide.filesystems.FileStateInvalidException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/KalkulackaTrieda.java@85fc8eab:1fe4d05[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:559)
+Caused: org.openide.loaders.DataObjectNotFoundException: /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/KalkulackaTrieda.java@85fc8eab:1fe4d05[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:582)
+	at org.openide.loaders.DataObject$Replace.readObject(DataObject.java:1200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:501)
+	at org.openide.loaders.OpenSupport$Env.readObject(OpenSupport.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1918)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.openide.windows.CloneableTopComponent.readExternal(CloneableTopComponent.java:254)
+	at org.netbeans.core.multiview.MultiViewCloneableTopComponent.readExternal(MultiViewCloneableTopComponent.java:275)
+	at org.openide.windows.TopComponent$Replacer.readObject(TopComponent.java:1859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.readSerial(XMLSettingsSupport.java:571)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:603)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+ALL [null]: The file /home/mairo744/NetBeansProjects/Kalkulacka/src/kalkulacka/KalkulackaTrieda.java seems no longer valid!
+Content: 
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.core.multiview/1" spec="1.40.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewCloneableTopComponent"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewModel$ActionRequestObserverFactory"/>
+    <instanceof class="org.netbeans.core.multiview.Splitable"/>
+    <instanceof class="org.openide.text.CloneableEditorSupport$Pane"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.CloneableTopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent$Cloneable"/>
+    <serialdata class="org.netbeans.core.multiview.MultiViewCloneableTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D64030000787074003A6F72672E6E65746265616E732E636F72652E6D756C7469766965772E4D756C74695669
+        6577436C6F6E6561626C65546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D37133460DA52
+        02000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000
+        00017400154B616C6B756C61636B615472696564612E6A61766174004F2F686F6D652F6D6169726F3734342F4E6574426561
+        6E7350726F6A656374732F4B616C6B756C61636B612F7372632F6B616C6B756C61636B612F4B616C6B756C61636B61547269
+        6564612E6A6176617400154B616C6B756C61636B615472696564612E6A61766170737200316F72672E6F70656E6964652E77
+        696E646F77732E436C6F6E6561626C654F70656E537570706F7274244C697374656E6572E525E314060C682D0200014C0003
+        656E7674002E4C6F72672F6F70656E6964652F77696E646F77732F436C6F6E6561626C654F70656E537570706F727424456E
+        763B7872002D6F72672E6F70656E6964652E77696E646F77732E436C6F6E6561626C65546F70436F6D706F6E656E74245265
+        664CED3888AC524ABC0200007870737200396F72672E6E65746265616E732E6D6F64756C65732E6F70656E6964652E6C6F61
+        646572732E53696D706C65455324456E7669726F6E6D656E744BA762A1D4D7CAE70200014C0005656E74727974002B4C6F72
+        672F6F70656E6964652F6C6F61646572732F4D756C7469446174614F626A65637424456E7472793B787200266F72672E6F70
+        656E6964652E746578742E44617461456469746F72537570706F727424456E76D720E894A9D2FA270200014900154249475F
+        46494C455F5448524553484F4C445F4D42787200236F72672E6F70656E6964652E6C6F61646572732E4F70656E537570706F
+        727424456E76E525E314060C682D0200014C00036F626A7400204C6F72672F6F70656E6964652F6C6F61646572732F446174
+        614F626A6563743B7870737200266F72672E6F70656E6964652E6C6F61646572732E446174614F626A656374245265706C61
+        6365F7497413DEEC538E0200014C0002666F7400244C6F72672F6F70656E6964652F66696C6573797374656D732F46696C65
+        4F626A6563743B78707372004D6F72672E6E65746265616E732E6D6F64756C65732E6D617374657266732E66696C65626173
+        656466732E66696C656F626A656374732E5265706C616365466F7253657269616C697A6174696F6E98978CE6D3E9619F0200
+        014C000C6162736F6C757465506174687400124C6A6176612F6C616E672F537472696E673B787074004F2F686F6D652F6D61
+        69726F3734342F4E65744265616E7350726F6A656374732F4B616C6B756C61636B612F7372632F6B616C6B756C61636B612F
+        4B616C6B756C61636B615472696564612E6A61766100000001737200306F72672E6F70656E6964652E6C6F61646572732E4D
+        756C7469446174614F626A65637424456E7472795265706C616365EB3332ABDAFB88A20200014C000466696C6571007E0014
+        787071007E001874000B746578742F782D6A61766171007E001574000B6A6176612E736F757263657372003B6F72672E6E65
+        746265616E732E636F72652E7370692E6D756C7469766965772E746578742E4D756C746956696577456469746F72456C656D
+        656E74000187D8CEF94C9B0200014C0006656469746F7274003F4C6F72672F6E65746265616E732F636F72652F7370692F6D
+        756C7469766965772F746578742F4D756C746956696577436C6F6E6561626C65456469746F723B78707371007E000074003D
+        6F72672E6E65746265616E732E636F72652E7370692E6D756C7469766965772E746578742E4D756C746956696577436C6F6E
+        6561626C65456469746F727371007E0003000177040000000071007E000671007E000771007E0008707371007E000B71007E
+        0012737200116A6176612E6C616E672E496E746567657212E2A0A4F781873802000149000576616C75657871007E00040000
+        00007701007871007E001D74000C746578742E686973746F727971007E00277371007E0025000000007371007E0025000000
+        007371007E0025FFFFFFFF74001B3C68746D6C3E4B616C6B756C61636B615472696564612E6A61766178
+    </serialdata>
+</settings>
+ALL [null]: Source: MultiFileObject@1cd7c[Windows2Local/Components/MultiView-java#002Eso888FB93t#002Ehistory#007C_14.settings]
+ALL [null]: Cannot read class: org.netbeans.core.multiview.MultiViewCloneableTopComponent
+INFO [org.netbeans.core.windows.persistence]: [PersistenceManager.getTopComponentForID] Problem when deserializing TopComponent for tcID:'MultiView-java#002Eso10CA9CC1xt#002Ehistory#007C_1'. Reason:  Object not found: /home/mairo744/NetBeansProjects/ConfigurationReloading/src/abc/abcPodbalik/NewClassPodbaliku.java@e09d81df:da8da5[invalid]. It was probably deleted.
+
+msg
+msg
+msg
+msg
+Caused: org.openide.filesystems.FileStateInvalidException: /home/mairo744/NetBeansProjects/ConfigurationReloading/src/abc/abcPodbalik/NewClassPodbaliku.java@e09d81df:da8da5[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:559)
+Caused: org.openide.loaders.DataObjectNotFoundException: /home/mairo744/NetBeansProjects/ConfigurationReloading/src/abc/abcPodbalik/NewClassPodbaliku.java@e09d81df:da8da5[invalid]
+	at org.openide.loaders.DataObject.find(DataObject.java:582)
+	at org.openide.loaders.DataObject$Replace.readObject(DataObject.java:1200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:501)
+	at org.openide.loaders.OpenSupport$Env.readObject(OpenSupport.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1918)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.openide.windows.CloneableTopComponent.readExternal(CloneableTopComponent.java:254)
+	at org.netbeans.core.multiview.MultiViewCloneableTopComponent.readExternal(MultiViewCloneableTopComponent.java:275)
+	at org.openide.windows.TopComponent$Replacer.readObject(TopComponent.java:1859)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.readSerial(XMLSettingsSupport.java:571)
+	at org.netbeans.modules.settings.convertors.XMLSettingsSupport$SettingsRecognizer.instanceCreate(XMLSettingsSupport.java:603)
+	at org.netbeans.modules.settings.convertors.SerialDataConvertor$SettingsInstance.instanceCreate(SerialDataConvertor.java:426)
+[catch] at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentPersistentForID(PersistenceManager.java:571)
+	at org.netbeans.core.windows.persistence.PersistenceManager.getTopComponentForID(PersistenceManager.java:681)
+	at org.netbeans.core.windows.PersistenceHandler.getTopComponentForID(PersistenceHandler.java:478)
+	at org.netbeans.core.windows.LazyLoader.loadNow(LazyLoader.java:158)
+	at org.netbeans.core.windows.LazyLoader.access$400(LazyLoader.java:62)
+	at org.netbeans.core.windows.LazyLoader$2.run(LazyLoader.java:129)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+ALL [null]: The file /home/mairo744/NetBeansProjects/ConfigurationReloading/src/abc/abcPodbalik/NewClassPodbaliku.java seems no longer valid!
+Content: 
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.core.multiview/1" spec="1.40.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewCloneableTopComponent"/>
+    <instanceof class="org.netbeans.core.multiview.MultiViewModel$ActionRequestObserverFactory"/>
+    <instanceof class="org.netbeans.core.multiview.Splitable"/>
+    <instanceof class="org.openide.text.CloneableEditorSupport$Pane"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.CloneableTopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <instanceof class="org.openide.windows.TopComponent$Cloneable"/>
+    <serialdata class="org.netbeans.core.multiview.MultiViewCloneableTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D64030000787074003A6F72672E6E65746265616E732E636F72652E6D756C7469766965772E4D756C74695669
+        6577436C6F6E6561626C65546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D37133460DA52
+        02000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870000177040000
+        00017400164E6577436C617373506F6462616C696B752E6A6176617400612F686F6D652F6D6169726F3734342F4E65744265
+        616E7350726F6A656374732F436F6E66696775726174696F6E52656C6F6164696E672F7372632F6162632F616263506F6462
+        616C696B2F4E6577436C617373506F6462616C696B752E6A6176617400164E6577436C617373506F6462616C696B752E6A61
+        766170737200316F72672E6F70656E6964652E77696E646F77732E436C6F6E6561626C654F70656E537570706F7274244C69
+        7374656E6572E525E314060C682D0200014C0003656E7674002E4C6F72672F6F70656E6964652F77696E646F77732F436C6F
+        6E6561626C654F70656E537570706F727424456E763B7872002D6F72672E6F70656E6964652E77696E646F77732E436C6F6E
+        6561626C65546F70436F6D706F6E656E74245265664CED3888AC524ABC0200007870737200396F72672E6E65746265616E73
+        2E6D6F64756C65732E6F70656E6964652E6C6F61646572732E53696D706C65455324456E7669726F6E6D656E744BA762A1D4
+        D7CAE70200014C0005656E74727974002B4C6F72672F6F70656E6964652F6C6F61646572732F4D756C7469446174614F626A
+        65637424456E7472793B787200266F72672E6F70656E6964652E746578742E44617461456469746F72537570706F72742445
+        6E76D720E894A9D2FA270200014900154249475F46494C455F5448524553484F4C445F4D42787200236F72672E6F70656E69
+        64652E6C6F61646572732E4F70656E537570706F727424456E76E525E314060C682D0200014C00036F626A7400204C6F7267
+        2F6F70656E6964652F6C6F61646572732F446174614F626A6563743B7870737200266F72672E6F70656E6964652E6C6F6164
+        6572732E446174614F626A656374245265706C616365F7497413DEEC538E0200014C0002666F7400244C6F72672F6F70656E
+        6964652F66696C6573797374656D732F46696C654F626A6563743B78707372004D6F72672E6E65746265616E732E6D6F6475
+        6C65732E6D617374657266732E66696C65626173656466732E66696C656F626A656374732E5265706C616365466F72536572
+        69616C697A6174696F6E98978CE6D3E9619F0200014C000C6162736F6C757465506174687400124C6A6176612F6C616E672F
+        537472696E673B78707400612F686F6D652F6D6169726F3734342F4E65744265616E7350726F6A656374732F436F6E666967
+        75726174696F6E52656C6F6164696E672F7372632F6162632F616263506F6462616C696B2F4E6577436C617373506F646261
+        6C696B752E6A61766100000001737200306F72672E6F70656E6964652E6C6F61646572732E4D756C7469446174614F626A65
+        637424456E7472795265706C616365EB3332ABDAFB88A20200014C000466696C6571007E0014787071007E001874000B7465
+        78742F782D6A61766171007E001574000B6A6176612E736F757263657372003B6F72672E6E65746265616E732E636F72652E
+        7370692E6D756C7469766965772E746578742E4D756C746956696577456469746F72456C656D656E74000187D8CEF94C9B02
+        00014C0006656469746F7274003F4C6F72672F6E65746265616E732F636F72652F7370692F6D756C7469766965772F746578
+        742F4D756C746956696577436C6F6E6561626C65456469746F723B78707371007E000074003D6F72672E6E65746265616E73
+        2E636F72652E7370692E6D756C7469766965772E746578742E4D756C746956696577436C6F6E6561626C65456469746F7273
+        71007E0003000177040000000071007E000671007E000771007E0008707371007E000B71007E0012737200116A6176612E6C
+        616E672E496E746567657212E2A0A4F781873802000149000576616C75657871007E0004000000007701007871007E001D74
+        000C746578742E686973746F727971007E00277371007E0025000000007371007E0025000000007371007E0025FFFFFFFF74
+        001C3C68746D6C3E4E6577436C617373506F6462616C696B752E6A61766178
+    </serialdata>
+</settings>
+ALL [null]: Source: MultiFileObject@35fca2[Windows2Local/Components/MultiView-java#002Eso10CA9CC1xt#002Ehistory#007C_1.settings]
+ALL [null]: Cannot read class: org.netbeans.core.multiview.MultiViewCloneableTopComponent
+Diagnostic information
+Input arguments:
+	-Djdk.home=/usr/lib/jvm/java-8-oracle
+	-Dnetbeans.default_userdir_root=/home/mairo744/.netbeans
+	-Dnetbeans.running.environment=gnome
+	-Dnetbeans.dirs=/home/mairo744/netbeans-8.0.2/nb:/home/mairo744/netbeans-8.0.2/ergonomics:/home/mairo744/netbeans-8.0.2/ide:/home/mairo744/netbeans-8.0.2/extide:/home/mairo744/netbeans-8.0.2/java:/home/mairo744/netbeans-8.0.2/apisupport:/home/mairo744/netbeans-8.0.2/webcommon:/home/mairo744/netbeans-8.0.2/websvccommon:/home/mairo744/netbeans-8.0.2/enterprise:/home/mairo744/netbeans-8.0.2/mobility:/home/mairo744/netbeans-8.0.2/profiler:/home/mairo744/netbeans-8.0.2/python:/home/mairo744/netbeans-8.0.2/php:/home/mairo744/netbeans-8.0.2/identity:/home/mairo744/netbeans-8.0.2/harness:/home/mairo744/netbeans-8.0.2/cnd:/home/mairo744/netbeans-8.0.2/dlight:/home/mairo744/netbeans-8.0.2/groovy:/home/mairo744/netbeans-8.0.2/extra:/home/mairo744/netbeans-8.0.2/javacard:/home/mairo744/netbeans-8.0.2/javafx::/home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor/build/cluster
+	-Dnetbeans.home=/home/mairo744/netbeans-8.0.2/platform
+	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
+	-Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense
+	-Xmx1024m
+	-Xss2m
+	-Xms32m
+	-XX:PermSize=32m
+	-Dapple.laf.useScreenMenuBar=true
+	-Dapple.awt.graphics.UseQuartz=true
+	-Dsun.java2d.noddraw=true
+	-Dsun.java2d.dpiaware=true
+	-Dsun.zip.disableMemoryMapping=true
+	-Dnetbeans.logger.console=true
+	-ea
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=/home/mairo744/Diplomovka/CD/Source_Code/ClassDiagramEditor/build/testuserdir/var/log/heapdump.hprof
+Compiler: HotSpot Client Compiler
+Heap memory usage: initial 32,0MB maximum 989,9MB
+Non heap memory usage: initial 160,0kB maximum -1b
+Garbage collector: Copy (Collections=103 Total time spent=0s)
+Garbage collector: MarkSweepCompact (Collections=3 Total time spent=0s)
+Classes: loaded=7202 total loaded=7202 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 6 254 903 296
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ProjectHooks$ProjectOpenedHookImpl.updateUserBuildPropertiesRef(ProjectHooks.java:573)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 528 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 17 binary roots took: 5 134 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: /home/mairo744/NetBeansProjects/JavaApplication1/src took: 384 ms (New or modified files: 5, Deleted files: 0) [Adding listeners took: 4 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: /home/mairo744/NetBeansProjects/JavaApplication1/test took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 2 source roots took: 385 ms (New or modified files: 5, Deleted files: 0) [Adding listeners took: 4 ms]
+WARNING [org.openide.filesystems.Ordering]: Not all children in Projects/Actions/ marked with the position attribute: [org-myorg-helloyou-DemoAction.shadow], but some are: [org-netbeans-modules-projectimport-eclipse-core-UpdateProjectAction.shadow, org-netbeans-modules-versioning-core-ProjectMenuItem.instance]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 256
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.eclipse.osgi@3.9.1.v20140110-1610 stopped

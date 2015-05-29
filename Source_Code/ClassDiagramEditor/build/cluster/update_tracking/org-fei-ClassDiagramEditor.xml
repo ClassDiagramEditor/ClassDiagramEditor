@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.fei.ClassDiagramEditor">
+    <module_version install_time="1432752926106" last="true" origin="installer" specification_version="1.0">
+        <file crc="1697276077" name="config/Modules/org-fei-ClassDiagramEditor.xml"/>
+        <file crc="180849047" name="modules/ext/javaparser-1.0.8.jar"/>
+        <file crc="613549773" name="modules/org-fei-ClassDiagramEditor.jar"/>
+    </module_version>
+</module>

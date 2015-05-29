@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mode version="2.4">
+    <module name="org.netbeans.modules.projectui" spec="1.1" />
+    <name unique="explorer"  />
+  <kind type="view" />
+  <state type="joined"  minimized="true"  />
+  <constraints>
+    <path orientation="horizontal" number="20" weight="0.3"/>
+    <path orientation="vertical" number="20" weight="0.5"/>
+  </constraints>
+  <bounds x="130" y="178" width="299" height="275" />
+  <frame state="0"/>
+    <active-tc  prev-id="projectTabLogical_tc" />
+    <empty-behavior permanent="true"/>
+</mode>

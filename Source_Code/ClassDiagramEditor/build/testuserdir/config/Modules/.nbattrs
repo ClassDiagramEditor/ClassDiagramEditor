@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="org-netbeans-modules-ant-browsetask.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-ant-debugger.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-ant-freeform.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-ant-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-beans.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-dbschema.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-debugger-jpda-js.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-debugger-jpda-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-debugger-jpda-ui.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-debugger-jpda-visual.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-findbugs-installer.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-form-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-form.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-hibernate.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-i18n.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-eclipselinkmodelgen.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-jpa-refactoring.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-jpa-verification.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-metadata-model-support.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-metadata.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-persistence-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-persistence.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-j2ee-persistenceapi.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-debug.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-editor-lib.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-editor.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-examples.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-freeform.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-hints-declarative.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-hints-ui.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-hints.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-j2sedeploy.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-j2seembedded.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-j2seprofiles.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-j2seproject.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-navigation.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-java-testrunner.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javadoc.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javaee-injection.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-editor.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-platform.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-project.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-samples.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javafx2-scenebuilder.xml">
+        <attr name="ergonomicsEnabled" longvalue="1430227749000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-javawebstart.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-junit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-checkstyle.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-coverage.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-grammar.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-graph.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-osgi.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-refactoring.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven-repository.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-maven.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-nashorn-execution.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-drilldown.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-heapwalker.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-nbimpl.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-options.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-oql-language.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-snaptracer.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-profiler-stp.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-projectimport-eclipse-core.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-spring-beans.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-xml-jaxb.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-xml-tools-java.xml">
+        <attr name="ergonomicsEnabled" longvalue="1428588601000"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+</attributes>

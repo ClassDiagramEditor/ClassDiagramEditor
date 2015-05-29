@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.fei.ClassDiagramEditor
+OpenIDE-Module-Localizing-Bundle: org/fei/ClassDiagramEditor/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
