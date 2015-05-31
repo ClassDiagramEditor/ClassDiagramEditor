@@ -25,7 +25,7 @@ The second way is simpler and does not need the main project setting. You just c
 If you do so, all present alternatives available for the project appear. If you want to generate the diagram you choose from possibilities given in Generate Class Diagram, as it can be seen in the Picture number 2.
 These are two ways how the generating of the diagram from the chosen project can start.
 
-[Start plug-in](/Images/picture2.png "Start plug-in")
+[Start plug-in](picture2.png "Start plug-in")
 Picture 2 – Start plug-in
 
 [Setting up the main project](/Images/picture3.png "Setting up the main project")
