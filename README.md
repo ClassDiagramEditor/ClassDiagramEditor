@@ -10,7 +10,7 @@ In the tools panel we choose the item Tools and we indicate the sub-item Plugins
 [logo]: https://github.com/ClassDiagramEditor/ClassDiagramEditor/tree/master/Images/picture1.png "Netbeans plug-in install"
 ![alt text][logo]
 Inline-style: 
-![alt text](../Images/picture1.png "Netbeans plug-in install")
+![alt text](/Images/picture1.png "Netbeans plug-in install")
 
 
 
