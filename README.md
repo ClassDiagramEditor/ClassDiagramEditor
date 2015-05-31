@@ -8,7 +8,7 @@
 In the tools panel we choose the item Tools and we indicate the sub-item Plugins. The window that we can see in the picture number 1 opens, then ,  we choose the card Downloaded in it and  in the card we click on the button Add Plugins in the upper left corner. Then, we choose the install file .nbm of the desired plug-in. In our case we enter the access way to the file org-fei-ClassDiagramEditor.nbm. After having it added, the module appears in the liste of the downloaded modules. Before the install, it is necessary to make sure that we have really indicated the module that we want to install. Then, we press the button Install in the bottom left corner.Besides, it is necessary to click away the warning windows informing us about the fact that the module is not registered and the user assumes responsibility for installing it. This way we can install each plug-in in the platform Netbeans.
 
 
-<div align="center"><img alt='Netbeans plug-in install' src ="/Images/picture1.png" /> 
+<div align="center"><img alt='Netbeans plug-in install' src ="/Images/picture1.png" /> </div>
 <div align="center"> Picture 1 - Netbeans plug-in install </div>
 
 
@@ -29,7 +29,7 @@ These are two ways how the generating of the diagram from the chosen project can
 <div align="center">Picture 2 – Start plug-in</div>
 
 
-<div align="center"><img alt='Setting up the main project' src ="/Images/picture3.png" /> 
+<div align="center"><img alt='Setting up the main project' src ="/Images/picture3.png" /> </div>
 <div align="center"> Picture 3 - Setting up the main project </div>
 
 
@@ -41,7 +41,7 @@ These are two ways how the generating of the diagram from the chosen project can
    By the means of number 2 section, we can display or hide the in between classes associations. If we display the in between classes  associations, the sections 3 and 4 are interesting for us too. By the means of them, we can adapt the way of displaying these in between classes associations. If the associations are on, we can additionally put on displaying the attributes implementing the associations as well and if the displaying of these attributes is on, we can put the associations names off.
 
 
-<div align="center"><img alt='Module operating' src ="/Images/picture4.png" /> 
+<div align="center"><img alt='Module operating' src ="/Images/picture4.png" /> </div>
 <div align="center"> Picture 4  -  Module operating </div>
 
 
