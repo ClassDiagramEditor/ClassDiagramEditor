@@ -11,10 +11,6 @@ In the tools panel we choose the item Tools and we indicate the sub-item Plugins
 ![Netbeans plug-in install](/Images/picture1.png "Netbeans plug-in install")
 Picture 1 - Netbeans plug-in install
 
-
-
-
-
 ### Uninstall
 
 
