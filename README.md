@@ -5,7 +5,7 @@
 ### Install
 
 <p align='justify'> 
-  Before the plug-in work starts, it is necessary to install this module. Installing the plug-in goes on as follows.
+&nbsp;&nbsp;&nbsp;Before the plug-in work starts, it is necessary to install this module. Installing the plug-in goes on as follows.
 In the tools panel we choose the item Tools and we indicate the sub-item Plugins. The window that we can see in the picture number 1 opens, then ,  we choose the card Downloaded in it and  in the card we click on the button Add Plugins in the upper left corner. Then, we choose the install file .nbm of the desired plug-in. In our case we enter the access way to the file org-fei-ClassDiagramEditor.nbm. After having it added, the module appears in the liste of the downloaded modules. Before the install, it is necessary to make sure that we have really indicated the module that we want to install. Then, we press the button Install in the bottom left corner.Besides, it is necessary to click away the warning windows informing us about the fact that the module is not registered and the user assumes responsibility for installing it. This way we can install each plug-in in the platform Netbeans.
 </p>
 &nbsp;&nbsp;
@@ -18,7 +18,7 @@ In the tools panel we choose the item Tools and we indicate the sub-item Plugins
 ### Uninstall
 
 <p align='justify'> 
-   The similar way we installed the plug-in, we can uninstall it. We open the Plugins window again but this time we do not choose the card  Downloaded but Installed. It is situated just at the right of the card Downloaded. Then, we choose the module we want to uninstall. If we want to uninstall this specifis plug-in module, so we choose the module ClassDiagramEditor in the liste of installed plugins. In the upper right corner, there is the texte entry that facilitates us searching among all plug-in.  If we choose the plug-in, so there is the possibility of uninstalling in the bottom left corner – the button uninstall. It is also possible to deactivate the plug-in , if we want – using the button Deactivate.  
+&nbsp;&nbsp;&nbsp;The similar way we installed the plug-in, we can uninstall it. We open the Plugins window again but this time we do not choose the card  Downloaded but Installed. It is situated just at the right of the card Downloaded. Then, we choose the module we want to uninstall. If we want to uninstall this specifis plug-in module, so we choose the module ClassDiagramEditor in the liste of installed plugins. In the upper right corner, there is the texte entry that facilitates us searching among all plug-in.  If we choose the plug-in, so there is the possibility of uninstalling in the bottom left corner – the button uninstall. It is also possible to deactivate the plug-in , if we want – using the button Deactivate.  
 </p>
 &nbsp;
 ### The work with plug-in
