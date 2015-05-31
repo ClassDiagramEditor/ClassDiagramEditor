@@ -60,6 +60,6 @@ These are two ways how the generating of the diagram from the chosen project can
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next is the right side panel which we use for the source file modifying thourough the diagram. At the top, there is section number 7, by the means of it we can delete the indicated element. The element is indicated by simple clicking. The indicated element is easy to be distinguished as the element edges are visibly highlighted. We can see the indicated element exemple also in the picture number 4 on the left. This indicated class influences directly the whole right side menu.
 Under deleting, there is  another section – section number 10.Thtough this section we can add immerged classes.
 On the other hand, in section 11 , we can adapt the element name. The last three menu sections on the right / sections number 12, 13 and 14 / are used for editing and variables or methods creating.
-<Enter>
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section number 15 is the last one and it appears after right side mouse button clicking  e.g. on the package or class. It can add us other useful alternatives.
 </p>
