@@ -34,7 +34,7 @@ These are two ways how the generating of the diagram from the chosen project can
 <div align="center"><img alt='Start plug-in' src ="/Images/picture2.png" /></div>
 <div align="center">Picture 2 – Start plug-in</div>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;
 <div align="center"><img alt='Setting up the main project' src ="/Images/picture3.png" /> </div>
 <div align="center"> Picture 3 - Setting up the main project </div>
 &nbsp;&nbsp;
