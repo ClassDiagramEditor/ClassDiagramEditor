@@ -26,7 +26,7 @@ In the tools panel we choose the item Tools and we indicate the sub-item Plugins
 <p align='justify'> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the plug-in has been installed, the work with it can finally start. There are two ways we can start it up. The first one which is situated in the upper right corner , generates the diagram from the project, and it is indicated as the main one.The main project can be set up by clicking the folder Run as you can see in the Picture number 3.
 If the mouse coursor points the Set Main Project , the opened projects appear. We choose the project we want to be the main one.
-<br />
+<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second way is simpler and does not need the main project setting. You just click the right side mouse button on the project you want to generate the diagram from .
 If you do so, all present alternatives available for the project appear. If you want to generate the diagram you choose from possibilities given in Generate Class Diagram, as it can be seen in the Picture number 2.
 These are two ways how the generating of the diagram from the chosen project can start.
