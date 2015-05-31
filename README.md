@@ -24,7 +24,8 @@ If the mouse coursor points the Set Main Project , the opened projects appear. W
 If you do so, all present alternatives available for the project appear. If you want to generate the diagram you choose from possibilities given in Generate Class Diagram, as it can be seen in the Picture number 2.
 These are two ways how the generating of the diagram from the chosen project can start.
 
-<div align="center"><img alt='Start plug-in' src ="/Images/picture2.png" />Picture 2 – Start plug-in</div>
+<div align="center"><img alt='Start plug-in' src ="/Images/picture2.png" /></div>
+<div align="center">Picture 2 – Start plug-in</div>
 
 
 [Setting up the main project](/Images/picture3.png "Setting up the main project")
