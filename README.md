@@ -1,7 +1,7 @@
 # ClassDiagramEditor
 
 <p align='justify'> 
-This project deals with generator and editor of source code UML diagrams. It is a plug-in for Netbeans platform exclusively. Based on java files module is able to generate diagram of classes and packages, which we can further work with. During java files editing and saving, elements in diagram are modified while the original diagram form is preserved. After diagram modification, any changes are automatically reflected in java files too. The final diagram can be exported in form of picture or to XMI format.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project deals with generator and editor of source code UML diagrams. It is a plug-in for Netbeans platform exclusively. Based on java files module is able to generate diagram of classes and packages, which we can further work with. During java files editing and saving, elements in diagram are modified while the original diagram form is preserved. After diagram modification, any changes are automatically reflected in java files too. The final diagram can be exported in form of picture or to XMI format.
 </p>
 ## User´s Guide
 
@@ -9,7 +9,7 @@ This project deals with generator and editor of source code UML diagrams. It is 
 
 <p align='justify'> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before the plug-in work starts, it is necessary to install this module. Installing the plug-in goes on as follows.
-In the tools panel we choose the item Tools and we indicate the sub-item Plugins. The window that we can see in the picture number 1 opens, then ,  we choose the card Downloaded in it and  in the card we click on the button Add Plugins in the upper left corner. Then, we choose the install file .nbm of the desired plug-in. In our case we enter the access way to the file org-fei-ClassDiagramEditor.nbm. After having it added, the module appears in the liste of the downloaded modules. Before the install, it is necessary to make sure that we have really indicated the module that we want to install. Then, we press the button Install in the bottom left corner. Besides, it is necessary to click away the warning windows informing us about the fact that the module is not registered and the user assumes responsibility for installing it. This way we can install each plug-in in the platform Netbeans.
+In the tools panel we choose the item Tools and we indicate the sub-item Plugins. The window that we can see in the picture number 1 opens, then ,  we choose the card Downloaded in it and  in the card we click on the button Add Plugins in the upper left corner. Then, we choose the install file  <a href="/Instal_file/ClassDiagramEditor.nbm" download>.nbm</a> of the desired plug-in. In our case we enter the access way to the file org-fei-ClassDiagramEditor.nbm. After having it added, the module appears in the liste of the downloaded modules. Before the install, it is necessary to make sure that we have really indicated the module that we want to install. Then, we press the button Install in the bottom left corner. Besides, it is necessary to click away the warning windows informing us about the fact that the module is not registered and the user assumes responsibility for installing it. This way we can install each plug-in in the platform Netbeans.
 </p>
 <br />
 
