@@ -1,5 +1,8 @@
 # ClassDiagramEditor
 
+<p align='justify'> 
+This project deals with generator and editor of source code UML diagrams. It is a plug-in for Netbeans platform exclusively. Based on java files module is able to generate diagram of classes and packages, which we can further work with. During java files editing and saving, elements in diagram are modified while the original diagram form is preserved. After diagram modification, any changes are automatically reflected in java files too. The final diagram can be exported in form of picture or to XMI format.
+</p>
 ## User´s Guide
 
 ### Install
