@@ -67,3 +67,6 @@ On the other hand, in section 11 , we can adapt the element name. The last three
 <br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section number 15 is the last one and it appears after right side mouse button clicking  e.g. on the package or class. It can add us other useful alternatives.
 </p>
+
+### Contact
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;classdiagrameditor@gmail.com
